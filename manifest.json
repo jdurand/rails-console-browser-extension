@@ -1,0 +1,10 @@
+{
+  "manifest_version": 3,
+  "name": "Rails Console Tab",
+  "version": "1.0",
+  "devtools_page": "devtools.html",
+  "permissions": ["tabs", "activeTab"],
+  "icons": {
+    "48": "icon.png"
+  }
+}
